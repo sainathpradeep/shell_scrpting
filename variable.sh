@@ -1,3 +1,5 @@
 #!/bin/bash
-MY_MESSAGE="Hello World"
-echo $MY_MESSAGE
+A="100"
+B="200"
+C="A+B"
+echo $A + $B = $C
