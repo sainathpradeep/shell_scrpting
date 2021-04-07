@@ -1,3 +1,4 @@
 workstation
 frontend
 100.26.222.114
+localhost ansible_connection=local

@@ -1,0 +1,5 @@
+- name: Demo showing a playbook
+   hosts: all
+   tasks:
+     -name: Print Hello World
+        msg: Hello World
