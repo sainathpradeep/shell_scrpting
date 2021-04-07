@@ -1,6 +1,6 @@
 - name: Demo showing a playbook
   hosts: all
   tasks:
-   - name: Print Hello World
+    - name: Print Hello World
       debug:
         msg: Hello World
