@@ -1,5 +1,5 @@
 - name: Demo showing a playbook
-   hosts: all
+   hosts: inventory
    tasks:
      -name: Print Hello World
         msg: Hello World
